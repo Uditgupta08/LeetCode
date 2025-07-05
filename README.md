@@ -16,4 +16,4 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uditgupta08/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
-<!---LeetCode Topics End-->-->
+<!---LeetCode Topics End-->

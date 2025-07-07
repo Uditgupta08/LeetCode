@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

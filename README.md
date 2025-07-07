@@ -73,8 +73,10 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +82,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->

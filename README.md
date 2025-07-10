@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +87,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
 ## Bucket Sort
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Uditgupta08/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |

@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -141,4 +142,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

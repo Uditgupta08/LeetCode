@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |

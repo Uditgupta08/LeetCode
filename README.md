@@ -41,6 +41,7 @@
 | [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
@@ -162,6 +163,7 @@
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |

@@ -43,6 +43,7 @@
 | [0322-coin-change](https://github.com/Uditgupta08/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
@@ -167,6 +168,7 @@
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Uditgupta08/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Uditgupta08/LeetCode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

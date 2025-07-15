@@ -71,6 +71,7 @@
 | [1250-longest-common-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Uditgupta08/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uditgupta08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3396-valid-word](https://github.com/Uditgupta08/LeetCode/tree/master/3396-valid-word) |
 ## Breadth-First Search
 |  |
 | ------- |

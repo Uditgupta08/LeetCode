@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
@@ -209,6 +210,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 ## Linked List
 |  |

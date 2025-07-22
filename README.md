@@ -15,6 +15,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Uditgupta08/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uditgupta08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uditgupta08/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String
@@ -162,6 +164,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uditgupta08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uditgupta08/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |

@@ -87,6 +87,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Uditgupta08/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Uditgupta08/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uditgupta08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/Uditgupta08/LeetCode/tree/master/3396-valid-word) |
 ## Breadth-First Search
 |  |
@@ -153,6 +154,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uditgupta08/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->

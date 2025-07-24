@@ -252,17 +252,20 @@
 | [0020-valid-parentheses](https://github.com/Uditgupta08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0460-lfu-cache) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

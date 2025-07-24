@@ -46,6 +46,7 @@
 | [0051-n-queens](https://github.com/Uditgupta08/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uditgupta08/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
@@ -257,6 +259,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 ## Design

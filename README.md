@@ -12,6 +12,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
+| [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0966-binary-subarrays-with-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uditgupta08/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uditgupta08/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uditgupta08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -257,8 +259,13 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
+| [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uditgupta08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |

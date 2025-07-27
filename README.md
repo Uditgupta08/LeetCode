@@ -79,6 +79,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uditgupta08/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Uditgupta08/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |

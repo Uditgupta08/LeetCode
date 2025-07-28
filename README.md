@@ -54,6 +54,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@
 | [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Uditgupta08/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Uditgupta08/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uditgupta08/LeetCode/tree/master/0131-palindrome-partitioning) |

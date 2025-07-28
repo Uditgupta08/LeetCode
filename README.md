@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Uditgupta08/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Uditgupta08/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -121,6 +122,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Uditgupta08/LeetCode/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Uditgupta08/LeetCode/tree/master/0621-task-scheduler) |
@@ -326,5 +328,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Uditgupta08/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Uditgupta08/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->

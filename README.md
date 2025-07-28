@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Uditgupta08/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Uditgupta08/LeetCode/tree/master/0051-n-queens) |
@@ -322,4 +323,8 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Uditgupta08/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Uditgupta08/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->

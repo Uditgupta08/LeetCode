@@ -51,6 +51,7 @@
 | [0039-combination-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Uditgupta08/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Uditgupta08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -212,6 +213,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Uditgupta08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -220,6 +222,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Uditgupta08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Uditgupta08/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |

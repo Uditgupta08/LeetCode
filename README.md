@@ -5,6 +5,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Uditgupta08/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Uditgupta08/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Uditgupta08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -50,6 +51,7 @@
 | [0051-n-queens](https://github.com/Uditgupta08/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0967-minimum-falling-path-sum) |

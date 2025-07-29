@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Uditgupta08/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
@@ -285,6 +286,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uditgupta08/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

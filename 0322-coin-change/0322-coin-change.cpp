@@ -3,10 +3,11 @@ public:
     int coinChange(vector<int>& a, int amount) {
         vector<long long> dp(amount + 1, INT_MAX);
         dp[0] = 0;
-        for (int i = 1; i < amount + 1; i++) {
-            for (auto it : a) {
-                if (i - it >= 0) {
-                    dp[i] = min(dp[i], 1 + dp[i - it]);
+        for (int currCoin = 1; currCoin <= amount; currCoin++) {
+            for (auto currAmount : a) {
+                if (currCoin - currAmount >= 0) {
+                    dp[currCoin] =
+                        min(dp[currCoin], 1 + dp[currCoin - currAmount]);
                 }
             }
         }

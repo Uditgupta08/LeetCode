@@ -90,6 +90,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Uditgupta08/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uditgupta08/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uditgupta08/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -142,6 +143,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Uditgupta08/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Search
@@ -150,6 +152,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uditgupta08/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Uditgupta08/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Uditgupta08/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |

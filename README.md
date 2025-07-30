@@ -91,6 +91,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Uditgupta08/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Uditgupta08/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -139,6 +140,7 @@
 | [0621-task-scheduler](https://github.com/Uditgupta08/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Uditgupta08/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Uditgupta08/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |

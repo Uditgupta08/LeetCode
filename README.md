@@ -82,6 +82,7 @@
 | [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Uditgupta08/LeetCode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uditgupta08/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Uditgupta08/LeetCode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/Uditgupta08/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -173,6 +175,7 @@
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
@@ -273,6 +276,7 @@
 | [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Uditgupta08/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uditgupta08/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0967-minimum-falling-path-sum) |

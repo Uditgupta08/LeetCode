@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Uditgupta08/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Uditgupta08/LeetCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
@@ -42,6 +43,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
@@ -72,6 +74,7 @@
 | [0139-word-break](https://github.com/Uditgupta08/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Uditgupta08/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Uditgupta08/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Uditgupta08/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Uditgupta08/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Uditgupta08/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Uditgupta08/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
@@ -178,6 +182,7 @@
 | [0063-unique-paths-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |

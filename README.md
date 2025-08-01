@@ -38,6 +38,7 @@
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uditgupta08/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Union Find
@@ -46,6 +47,7 @@
 | [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uditgupta08/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
@@ -53,6 +55,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Uditgupta08/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Uditgupta08/LeetCode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Uditgupta08/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Array
 |  |
@@ -146,6 +149,7 @@
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Uditgupta08/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Uditgupta08/LeetCode/tree/master/1036-rotting-oranges) |
 ## Sorting

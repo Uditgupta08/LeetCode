@@ -83,6 +83,7 @@
 | [0213-house-robber-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Uditgupta08/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Uditgupta08/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Uditgupta08/LeetCode/tree/master/0322-coin-change) |
@@ -172,6 +173,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uditgupta08/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Uditgupta08/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Stack
@@ -399,6 +402,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditgupta08/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Uditgupta08/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Database
 |  |

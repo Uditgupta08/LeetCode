@@ -34,6 +34,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Uditgupta08/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Uditgupta08/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Uditgupta08/LeetCode/tree/master/0207-course-schedule) |
@@ -359,6 +360,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uditgupta08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
@@ -457,4 +459,12 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uditgupta08/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Uditgupta08/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Uditgupta08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Uditgupta08/LeetCode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Uditgupta08/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Uditgupta08/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
@@ -346,6 +347,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditgupta08/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Uditgupta08/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uditgupta08/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/Uditgupta08/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0206-reverse-linked-list) |

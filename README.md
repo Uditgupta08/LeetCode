@@ -131,6 +131,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Uditgupta08/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Uditgupta08/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Uditgupta08/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Uditgupta08/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Uditgupta08/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Uditgupta08/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Uditgupta08/LeetCode/tree/master/0115-distinct-subsequences) |

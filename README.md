@@ -142,6 +142,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Uditgupta08/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Uditgupta08/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
@@ -477,4 +478,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

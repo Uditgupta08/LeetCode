@@ -5,20 +5,13 @@ public:
                                       {'L', 50},  {'C', 100}, {'D', 500},
                                       {'M', 1000}};
 
-        int n = s.length();
-        int ans = m[s[0]];
-        if (n == 1) {
-            return ans;
-        }
-        for (int i = n - 1; i > 0; i--) {
-            ans += m[s[i]];
-            if (m[s[i]] > m[s[i - 1]]) {
-                ans -= m[s[i - 1]];
-                i--;
+        int ans = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (i + 1 < s.length() && m[s[i]] < m[s[i + 1]]) {
+                ans -= m[s[i]];
+            } else {
+                ans += m[s[i]];
             }
-        }
-        if (m[s[0]] < m[s[1]]) {
-            ans -= m[s[0]];
         }
         return ans;
     }

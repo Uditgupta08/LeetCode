@@ -96,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Uditgupta08/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Uditgupta08/LeetCode/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Uditgupta08/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -375,6 +377,7 @@
 | [0042-trapping-rain-water](https://github.com/Uditgupta08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
@@ -384,6 +387,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Uditgupta08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uditgupta08/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 ## Design
@@ -402,6 +406,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Uditgupta08/LeetCode/tree/master/0493-reverse-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 ## Data Stream

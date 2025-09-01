@@ -243,6 +243,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uditgupta08/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -441,6 +442,7 @@
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Database
 |  |
 | ------- |
@@ -499,4 +501,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@
 | [0207-course-schedule](https://github.com/Uditgupta08/LeetCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uditgupta08/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -168,6 +169,7 @@
 | [0542-01-matrix](https://github.com/Uditgupta08/LeetCode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uditgupta08/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -491,6 +493,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |

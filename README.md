@@ -45,6 +45,7 @@
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Uditgupta08/LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Uditgupta08/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Uditgupta08/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Uditgupta08/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -385,6 +386,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Uditgupta08/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/Uditgupta08/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Uditgupta08/LeetCode/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -494,6 +496,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Uditgupta08/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Uditgupta08/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |

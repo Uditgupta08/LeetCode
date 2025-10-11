@@ -100,6 +100,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0455-assign-cookies](https://github.com/Uditgupta08/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Uditgupta08/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Uditgupta08/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Uditgupta08/LeetCode/tree/master/0494-target-sum) |
@@ -183,6 +184,7 @@
 | [0229-majority-element-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uditgupta08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Uditgupta08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Uditgupta08/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Uditgupta08/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Uditgupta08/LeetCode/tree/master/0721-accounts-merge) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/Uditgupta08/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Uditgupta08/LeetCode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uditgupta08/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -445,6 +448,7 @@
 | [0042-trapping-rain-water](https://github.com/Uditgupta08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Uditgupta08/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Database

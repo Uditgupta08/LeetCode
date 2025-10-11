@@ -128,6 +128,7 @@
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Uditgupta08/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -190,6 +191,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Binary Search
 |  |
@@ -267,6 +269,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uditgupta08/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -451,6 +454,7 @@
 | [0455-assign-cookies](https://github.com/Uditgupta08/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Database
 |  |
 | ------- |

@@ -374,6 +374,7 @@
 | [0146-lru-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Uditgupta08/LeetCode/tree/master/0460-lfu-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uditgupta08/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
@@ -452,6 +453,7 @@
 | [0141-linked-list-cycle](https://github.com/Uditgupta08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Uditgupta08/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Uditgupta08/LeetCode/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Uditgupta08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |

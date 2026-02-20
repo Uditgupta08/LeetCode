@@ -85,6 +85,7 @@
 | [0090-subsets-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Uditgupta08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Uditgupta08/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Uditgupta08/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -319,6 +320,7 @@
 | [0115-distinct-subsequences](https://github.com/Uditgupta08/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Uditgupta08/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Uditgupta08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uditgupta08/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uditgupta08/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Uditgupta08/LeetCode/tree/master/0139-word-break) |

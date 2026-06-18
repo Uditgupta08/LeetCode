@@ -248,6 +248,7 @@
 | [0060-permutation-sequence](https://github.com/Uditgupta08/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Uditgupta08/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Uditgupta08/LeetCode/tree/master/0070-climbing-stairs) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Uditgupta08/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Uditgupta08/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uditgupta08/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |

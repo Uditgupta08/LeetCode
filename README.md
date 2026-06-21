@@ -128,6 +128,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Uditgupta08/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Uditgupta08/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -192,6 +193,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Uditgupta08/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Uditgupta08/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1833-maximum-ice-cream-bars](https://github.com/Uditgupta08/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Binary Search
@@ -271,6 +273,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Uditgupta08/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Uditgupta08/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Uditgupta08/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Uditgupta08/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -524,4 +527,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Uditgupta08/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

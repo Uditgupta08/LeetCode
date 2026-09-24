@@ -133,6 +133,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Uditgupta08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -255,6 +256,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Uditgupta08/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Uditgupta08/LeetCode/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Uditgupta08/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Uditgupta08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |

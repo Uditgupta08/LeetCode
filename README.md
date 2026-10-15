@@ -32,6 +32,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Uditgupta08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Uditgupta08/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Uditgupta08/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Uditgupta08/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
@@ -132,6 +133,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Uditgupta08/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Uditgupta08/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Uditgupta08/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Uditgupta08/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Uditgupta08/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Uditgupta08/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Uditgupta08/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -495,10 +497,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Uditgupta08/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Uditgupta08/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Uditgupta08/LeetCode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Uditgupta08/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
